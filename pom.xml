@@ -64,8 +64,8 @@
 	
 	<distributionManagement>
   <repository>
-    <id>test</id>
-    <url>http://13.229.94.18:8081/nexus/content/repositories/test</url>
+    <id>jenkins.nexus.java</id>
+    <url>http://13.229.94.18:8081/nexus/content/repositories/jenkins.nexus.java</url>
   </repository>
 </distributionManagement>
 
